@@ -1,0 +1,11 @@
+//------------------------------------------------------------------------------
+// @name: README
+// @description: README for SAMD21 repo
+// @last-modified: 2020/04/09
+// @Author: Asher Voris
+//------------------------------------------------------------------------------
+ 
+This repository contains my development work with the ATSAMD21G18 arm cortex
+M0+ processor. The development board being used is the 
+seeed studio wio lite w600.
+
